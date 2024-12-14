@@ -1,0 +1,4 @@
+pandas
+apscheduler
+requests
+pytelegrambotapi
